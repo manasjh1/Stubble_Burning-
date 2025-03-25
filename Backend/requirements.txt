@@ -1,0 +1,11 @@
+torch
+ultralytics
+fastapi
+uvicorn
+pymongo
+pillow
+python-dotenv
+passlib
+pyjwt
+celery
+redis
