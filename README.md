@@ -57,4 +57,9 @@ We are **AeroToxs**, a team of **AI researchers and environmentalists** dedicate
 🛠️ **Mission:** Reduce pollution through AI-powered real-time monitoring.  
 🎯 **Vision:** A future where AI prevents environmental disasters before they happen.  
 
+🎬 Demo Video https://youtu.be/AGTorrja8rE?si=Szxp-iK80Y6iOtG0
 
+💻 Power Point Presentation https://drive.google.com/file/d/1Ke6RTK9p9iAhDNXFluKQCMCZPpBfuECV/view?usp=sharing
+
+
+Note : - The above code is copyright to aerotoxs and the above code is not the complete code 
